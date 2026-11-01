@@ -1,5 +1,3 @@
-"use client";
-
 import { useEffect, useState } from "react";
 import { TRIGGERS, type Craving, type Trigger } from "@/lib/storage";
 
